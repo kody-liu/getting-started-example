@@ -7,6 +7,7 @@
     "build": "rimraf dist && rollup --config",
     "test": "jest"
   },
+  "license":"MIT",
   "dependencies": {
     "@testing-library/react": "13.3.0",
     "@types/jest": "^27.0.3",
@@ -23,5 +24,5 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "gitHead": "3fccd84270589bcf62fe33ca84e8ce774aa968cc"
+  "gitHead": "a0e8de0ce978da8f7e4e0f9e64b9c056d1b4973c"
 }
