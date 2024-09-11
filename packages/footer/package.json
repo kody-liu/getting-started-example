@@ -22,5 +22,6 @@
   },
   "devDependencies": {
     "rimraf": "^3.0.2"
-  }
+  },
+  "gitHead": "3fccd84270589bcf62fe33ca84e8ce774aa968cc"
 }

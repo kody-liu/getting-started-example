@@ -4,8 +4,10 @@
   "workspaces": [
     "packages/*"
   ],
+  "license": "MIT",
   "scripts": {
-    "publish": "lerna publish --no-private"
+    "publish": "lerna publish --no-private",
+    "version": "lerna version --no-private"
   },
   "devDependencies": {
     "lerna": "^7.1.5"
